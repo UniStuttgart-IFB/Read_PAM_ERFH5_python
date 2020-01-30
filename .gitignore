@@ -1,0 +1,4 @@
+* # alles blocken
+!*/ # auch in den Unterordnern
+!.gitignore # aber nicht die .gitignore Datei
+!*.Beispielendung # alle Dateien mit der "Beispielendung" hochladen
