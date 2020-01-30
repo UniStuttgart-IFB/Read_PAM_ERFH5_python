@@ -1,2 +1,2 @@
-# Template
-Template für neue Repositories
+# Read in ERFH5 result files of PAM Crash
+
